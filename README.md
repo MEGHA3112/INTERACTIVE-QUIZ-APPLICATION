@@ -31,3 +31,6 @@ Through this project, not only was the goal of building an engaging quiz tool ac
 In short, this quiz app project brings together interactivity, design, and logic to create a functional learning platform. It's simple to use, fun to engage with, and showcases how even basic web tools can be used to build something useful and interactive.
 
 OUTPUT:-
+![Image](https://github.com/user-attachments/assets/0aa50267-72c3-43da-a422-9199657b3cce)
+![Image](https://github.com/user-attachments/assets/13dcf794-4edc-4dfd-8f18-4ab3b03bbc95)
+![Image](https://github.com/user-attachments/assets/aeb2f9c0-e1c7-4a03-b749-a2992f0db68a)
